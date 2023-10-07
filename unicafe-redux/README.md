@@ -7,6 +7,7 @@ _Unicafe app collects customer feedback with three options: good, neutral, and b
 ```
 git clone  https://github.com/fullstack-hy2020/unicafe-redux
 cd unicafe-redux
+rm -rf .git
 npm install
 ```
 
@@ -21,3 +22,5 @@ npm run dev
 ```
 npm run test
 ```
+
+_Open the browser in the url: http://localhost:5173/_
