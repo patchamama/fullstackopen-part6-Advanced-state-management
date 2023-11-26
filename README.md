@@ -10,7 +10,7 @@ Answers to [openfullstack.com](https://fullstackopen.com) course exercises from 
   _Solution details: [6.1](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/dd48301376e7b7aa4bd3805cafcf3ccc426c1fbc) | [6.2](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/7679c35cc63369f026181074e5f6fd4530fd5679)_
 
 - [Exercises 6.3.-6.8.](https://fullstackopen.com/en/part6/flux_architecture_and_redux#exercises-6-3-6-8)
-  _Solution details: [6.3]() | [6.4]() | [6.5]() | [6.6]() | [6.7]() | [6.8]()_
+  _Solution details: [6.3](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/c9836cf132227527bc4ad6bb71502a5434b68ac9) | [6.4](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/c86a0af6d326ae4607b0c6a252b0086b27df0aa3) | [6.5](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/3e7e62f92728f2c5ee7b7fb585f79dc3c05b5a66) | [6.6](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/eb6f1c45530a0eb7db4ad6c0a406c2509c8fc607) | [6.7](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/da75604230c0e5d36e0d1737654b55faabf4bbc4) | [6.8](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/1a381b16e8aa1cd0e69ea84803b07529449451b8)_
 
 ## b. Many reducers
 
