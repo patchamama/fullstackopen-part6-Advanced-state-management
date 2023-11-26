@@ -15,10 +15,10 @@ Answers to [openfullstack.com](https://fullstackopen.com) course exercises from 
 ## b. Many reducers
 
 - [Exercise 6.9](https://fullstackopen.com/en/part6/many_reducers#exercise-6-9)
-  _Solution details: [6.9]()_
+  _Solution details: [6.9](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/0e6c33c933443954bc8195c7b74409030a9dec30)_
 
 - [Exercises 6.10.-6.13.](https://fullstackopen.com/en/part6/many_reducers#exercises-6-10-6-13)
-  _Solution details: [6.10]() | [6.11]() | [6.12]() | [6.13]()_
+  _Solution details: [6.10](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/c566a5a11273ec424d80e8bda0e1f87a68a0b6a8) | [6.11](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/c566a5a11273ec424d80e8bda0e1f87a68a0b6a8) | [6.12](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/b90decc1d85e046692ad4b3c75fe0efe4057ebc8) | [6.13](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/dc7e1a9ff5d95a457ab251c5203ae1a2bc5ded1f)_
 
 ## c. Communicating with server in a redux application
 
