@@ -7,7 +7,7 @@ Answers to [openfullstack.com](https://fullstackopen.com) course exercises from 
 ## a. Flux-architecture and Redux
 
 - [Exercises 6.1.-6.2.](https://fullstackopen.com/en/part6/flux_architecture_and_redux#exercises-6-1-6-2)
-  _Solution details: [6.1]() | [6.2]()_
+  _Solution details: [6.1](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/dd48301376e7b7aa4bd3805cafcf3ccc426c1fbc) | [6.2](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/7679c35cc63369f026181074e5f6fd4530fd5679)_
 
 - [Exercises 6.3.-6.8.](https://fullstackopen.com/en/part6/flux_architecture_and_redux#exercises-6-3-6-8)
   _Solution details: [6.3]() | [6.4]() | [6.5]() | [6.6]() | [6.7]() | [6.8]()_
