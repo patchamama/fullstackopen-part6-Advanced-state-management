@@ -7,7 +7,10 @@ const AnecdoteForm = () => {
   const addAnecdote = (event) => {
     event.preventDefault()
     console.log('addAnecdote', event.target.anecdote.value)
-    dispatch(createAnecdote(event.target.anecdote.value))
+    dispatch({
+      type: 'anecdote/createAnecdote',
+      payload: event.target.anecdote.value,
+    })
     event.target.anecdote.value = ''
   }
 
