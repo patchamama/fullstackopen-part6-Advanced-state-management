@@ -43,6 +43,7 @@ export const createAnecdote = (content) => {
   return async (dispatch) => {
     const anecdote = await anecdotesService.createNew(content)
     dispatch(appendAnecdote(anecdote))
+    dispatch(setNotification(`new anecdote '${content}'`, 5))
   }
 }
 
@@ -50,7 +51,7 @@ export const updateVote = (id) => {
   return async (dispatch) => {
     const updatedAnecdote = await anecdotesService.vote(id)
     dispatch(addVote(updatedAnecdote))
-    dispatch(setNotification(`you has voted '${updatedAnecdote.content}'`, 5))
+    dispatch(setNotification(`you voted '${updatedAnecdote.content}'`, 10))
   }
 }
 
