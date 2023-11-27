@@ -23,10 +23,10 @@ Answers to [openfullstack.com](https://fullstackopen.com) course exercises from 
 ## c. Communicating with server in a redux application
 
 - [Exercises 6.14.-6.15.](https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application#exercises-6-14-6-15)
-  _Solution details: [6.14]() | [6.15]()_
+  _Solution details: [6.14](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/b7faaab70d2cd9f03b542b5278e6718a49e79e5f) | [6.15](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/9388edf58ef3de66f3afccf54a6ed56920a05f0b)_
 
 - [Exercises 6.16.-6.19.](https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application#exercises-6-14-6-15)
-  _Solution details: [6.16]() | [6.17]() | [6.18]() | [6.19]()_
+  _Solution details: [6.16](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/31714fa348c806d6ae66ff205503216a2ba28bd1) | [6.17](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/b672d1a174ac457e7bd9df4c7a38023a6b66ea2a) | [6.18](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/02528a6e2cdd9d7a72b44f8e3724fcb8c6efa0b4) | [6.19](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/28389ed0baefb32dea3270c6e3e580730a6ef112)_
 
 ## d. React Query, useReducer and the context
 
