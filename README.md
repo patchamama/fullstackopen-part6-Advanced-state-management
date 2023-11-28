@@ -31,9 +31,7 @@ Answers to [openfullstack.com](https://fullstackopen.com) course exercises from 
 ## d. React Query, useReducer and the context
 
 - [Exercises 6.20.-6.22.](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#exercises-6-20-6-22)
-  _Solution details: [6.20]() | [6.21]() | [6.22]()_
+  _Solution details: [6.20](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/7f7afc9b87ea8461f0e227a124086aa517187acc) | [6.21](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/7f7afc9b87ea8461f0e227a124086aa517187acc) | [6.22](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/7f7afc9b87ea8461f0e227a124086aa517187acc)_
 
 - [Exercises 6.23.-6.24.](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#exercises-6-23-6-24)
-  _Solution details: [6.23]() | [6.24]()_
-
-## Pending
+  _Solution details: [6.23](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/c885524231d6f34316f18f54045d3dd7cc9c0889) | [6.24](https://github.com/patchamama/fullstackopen-part6-Advanced-state-management/commit/c885524231d6f34316f18f54045d3dd7cc9c0889)_
